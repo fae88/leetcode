@@ -114,10 +114,10 @@ public class LongestChWithoutRepeat {
         System.out.println(new LongestChWithoutRepeat.Solution().lengthOfLongestSubstring(string));
 
         // 3rd
-        System.out.println(new LongestChWithoutRepeat.Solution().lengthOfLongestSubstring(string));
+        System.out.println(new LongestChWithoutRepeat.Solution2().lengthOfLongestSubstring(string));
 
         // 4th
-        System.out.println(new LongestChWithoutRepeat.Solution().lengthOfLongestSubstring(string));
+        System.out.println(new LongestChWithoutRepeat.Solution3().lengthOfLongestSubstring(string));
 
 
 

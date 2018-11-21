@@ -23,7 +23,7 @@ public class TwoSum {
 
         // 1st method
 //        long start = System.currentTimeMillis();
-//        System.out.println(Arrays.toString(new Solution().twoSum(nums, 9)));
+//        System.out.println(Arrays.toString(new TwoTreesEquals().twoSum(nums, 9)));
 //        System.out.println(System.currentTimeMillis() - start);
 
         // 2nd method
